@@ -1,4 +1,5 @@
 # Music Generator
+**If you have any questions regarding this project please checkout [imaginghub.com](http://imaginghub.com/)!** 
 
 A simple Program which runs edge detection on a preformatted sheet of paper to generate music via the Sonic Pi Application.
 
